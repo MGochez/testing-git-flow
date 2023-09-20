@@ -1,3 +1,2 @@
 
-
-// "soy una prueba";
+const string = "soy una prueba";
